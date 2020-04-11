@@ -1,0 +1,44 @@
+@charset "UTF-8";
+* { margin: 0; padding: 0;}
+
+header {
+	padding: 40px;
+	background-image: url("../images/cloud.jpg");
+	background-color: cornflowerblue;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	line-height: 48px;
+	
+
+footer{
+	padding:5px;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	Background-color:blue;
+	Text-align:center;
+	margin-bottom: 0px;
+	position: fixed;
+	line-height: 48px;
+}
+
+.my-class {
+	color:red;
+	background-color: lightblue;
+	border: 1px solid blue;
+	text-align: center;
+	padding: 0.5em; 
+}
+
+
+.border {
+	backgroud-image: url("images/background.jpg");
+	background-size: 100% 100%;
+	color: black;
+	border: 1px solid blue;
+	Background-color: lightblue;
+	padding: 0.5cm;
+	text-align: center;
+	
+}
